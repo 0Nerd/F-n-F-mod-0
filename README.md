@@ -1,7 +1,10 @@
 # FNF-mod-0
 A simple fnf mod, coming sometime!
-#Name: 
-#Projected release:
-#Language:
 
-#Contributors:
+Name: 
+
+Projected release:
+
+Language:
+
+Contributors:
