@@ -3,8 +3,8 @@ A simple fnf mod, coming sometime!
 
 Name: 
 
-Projected release:
+Projected release:  no.
 
-Language:
+Language:  haxe
 
-Contributors:
+Contributors: WeirdNerd
